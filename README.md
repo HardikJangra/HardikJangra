@@ -58,3 +58,10 @@ GitHub: https://github.com/HardikJangra
 LinkedIn: https://www.linkedin.com/in/hardik-jangra-45462428b/
 ## GitHub Stats
 
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardikJangra\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikJangra\&layout=compact\&theme=tokyonight)
+
+---
+
+
