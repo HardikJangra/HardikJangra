@@ -56,3 +56,5 @@ Modern responsive corporate website built using React/Next.js with a focus on pe
 
 GitHub: https://github.com/HardikJangra
 LinkedIn: https://www.linkedin.com/in/hardik-jangra-45462428b/
+## GitHub Stats
+
