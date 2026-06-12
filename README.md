@@ -36,11 +36,7 @@ Experienced in building end-to-end applications — from UI development and back
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikJangra\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HardikJangra/HardikJangra/output/ocean.gif" width="100%">
-</p>
 
 ---
 
