@@ -39,7 +39,7 @@ Experienced in building end-to-end applications — from UI development and back
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HardikJangra/HardikJangra/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/HardikJangra/HardikJangra/output/ocean.gif" width="100%">
 </p>
 
 ---
