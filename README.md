@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Full Stack Developer | MERN & Next.js<br><br>Full Stack Developer with hands-on experience building scalable and user-centric web applications using Next.js, React, Node.js, and TypeScript. Skilled in developing responsive frontends, designing RESTful APIs, and working with modern databases such as MongoDB and MySQL.<br><br>Experienced in building end-to-end applications — from UI development and backend logic to deployment and performance optimization. Currently strengthening Data Structures & Algorithms, system design, and production-grade full-stack architecture.
+Aspiring Software Engineer | Full Stack Developer | MERN & Next.js<br><br>Full Stack Developer with hands-on experience building scalable and user-centric web applications using Next.js, React, Node.js, and TypeScript. Skilled in developing responsive frontends, designing RESTful APIs, and working with modern databases such as MongoDB and MySQL.<br><br>Experienced in building end-to-end applications — from UI development and backend logic to deployment and performance optimization. Currently strengthening Data Structures & Algorithms, system design, and production-grade full-stack architecture.
 
 
 # 💻 Tech Stack:
